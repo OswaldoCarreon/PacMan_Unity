@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Coin
+  - BigCoin
+  - leftColider
+  - rightCollider
   layers:
   - Default
   - TransparentFX
@@ -49,4 +53,7 @@ TagManager:
     locked: 0
   - name: Character
     uniqueID: 2156329167
+    locked: 0
+  - name: rightHide
+    uniqueID: 2222883157
     locked: 0
